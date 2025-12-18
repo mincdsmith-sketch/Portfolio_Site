@@ -20,20 +20,40 @@
     </header>
 
     <!-- About Me Section -->
-    <section id="about">
+    <section id="about" class="fade-in">
         <h2>About Me</h2>
-        <img src="images/profile.jpg" alt="My Profile Picture of Cartrell">
+        <img src="images/profile.jpg" alt="My Profile Picture of Car">
         <p>Hello! My name is Cartrell D. Smith, and I am a web developer passionate about building creative and functional websites.</p>
     </section>
 
     <!-- Projects Section -->
-    <section id="projects">
-        <h2>Projects</h2>
-        <p>Coming soon...</p>
-    </section>
+   <section id="projects" class="fade-in">
+    <h2>My Projects</h2>
+    
+    <div id="filter-buttons">
+        <button onclick="filterProjects('all')">All</button>
+        <button onclick="filterProjects('web')">Web Development</button>
+        <button onclick="filterProjects('python')">Python Projects</button>
+    </div>
+
+    <div class="project" data-category="web">
+        <h3>Portfolio Website</h3>
+        <p>A website showcasing my resume, projects, and skills.</p>
+    </div>
+
+    <div class="project" data-category="python">
+        <h3>Data Analysis Script</h3>
+        <p>A Python script that processes and visualizes data.</p>
+    </div>
+
+    <div class="project" data-category="web">
+        <h3>To-Do List App</h3>
+        <p>A simple JavaScript to-do list application.</p>
+    </div>
+</section>
 
     <!-- Contact Section -->
-    <section id="contact">
+    <section id="contact" class="fade-in">
         <h2>Contact Me</h2>
         <p>Email: min.cdsmith@gmail.com</p>
         <p>Connect with me:</p>
