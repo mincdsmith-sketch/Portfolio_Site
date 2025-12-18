@@ -15,5 +15,5 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 ## 📞 Contact Me  
 Feel free to connect with me:  
 - 📧 Email: min.cdsmitt@gmail.com  
-- 🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/cartrellsmith)  
-- 🖥️ GitHub: [Your GitHub](https://github.com/mincdsmith-sketch)
+- 🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/cartrellsmith)
+- 🖥️ GitHub: [GitHub](https://github.com/mincdsmith-sketch)
